@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Renault Magnum",
+    "driver": "John"
+  },
+  {
+    "id": 2,
+    "name": "Volvo FH12",
+    "driver": "Jack"
+  },
+  {
+    "id": 3,
+    "name": "DAF XF",
+    "driver": "Jane"
+  },
+  {
+    "id": 4,
+    "name": "MAN",
+    "driver": "Zolo"
+  },
+  {
+    "id": 5,
+    "name": "PETER-BUILD",
+    "driver": "Max"
+  },
+  {
+    "id": 6,
+    "name": "SCANIA",
+    "driver": "Alf"
+  }
+]

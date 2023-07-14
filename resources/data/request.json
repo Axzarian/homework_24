@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Renault Magnum",
+    "driver": "John",
+    "stateName" :"base"
+  },
+  {
+    "id" :2,
+    "name": "Volvo FH12",
+    "driver": "Jack",
+    "stateName": "base"
+  },
+  {
+    "id": 3,
+    "name": "DAF XF",
+    "driver": "Jane",
+    "stateName": "base"
+  },
+  {
+    "id": 4,
+    "name": "MAN",
+    "driver": "Zolo",
+    "stateName": "run"
+  },
+  {
+    "id": 5,
+    "name": "PETER-BUILD",
+    "driver": "Max",
+    "stateName": "base"
+  },
+  {
+    "id": 6,
+    "name": "SCANIA",
+    "driver": "Alf",
+    "stateName": "repair"
+  }
+]
